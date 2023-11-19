@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>熙然博客</title>
   <icon>https://www.gravatar.com/avatar/6eeaaaa2b9cc8d64f9aa274fefd4f889</icon>
-  <subtitle>生活明朗 万物可爱</subtitle>
+  
   <link href="https://blog.xixiranran.com/atom.xml" rel="self"/>
   
   <link href="https://blog.xixiranran.com/"/>
