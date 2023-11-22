@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.xixiranran.com/posts/3eeb.html</loc>
+    
+    <lastmod>2023-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xixiranran.com/posts/c95a.html</loc>
     
     <lastmod>2023-11-22</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://blog.xixiranran.com/equipment/</loc>
-    
-    <lastmod>2023-11-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xixiranran.com/posts/3eeb.html</loc>
     
     <lastmod>2023-11-19</lastmod>
     
